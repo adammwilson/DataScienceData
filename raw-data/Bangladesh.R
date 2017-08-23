@@ -7,6 +7,9 @@ library(devtools)
 datadir=tempdir()
 
 bgd=getData('GADM', country='BGD', level=0,path = datadir)
+bangladesh=bgd
+
+use_data(bangladesh)
 
 ## Get DEM
 bgdc=gCentroid(bgd)%>%coordinates()

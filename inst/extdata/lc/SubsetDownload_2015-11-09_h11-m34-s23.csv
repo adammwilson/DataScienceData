@@ -1,0 +1,2 @@
+"SubsetID","loc","lat","long","start.date","end.date","coords.x1","coords.x2","optional","Status"
+"Lat43.00075Lon-78.78820Start2001-01-01End2013-12-31","UB Spine",43.000753,-78.788195,2001,2013,-78.788195,43.000753,TRUE,"Successful download"
