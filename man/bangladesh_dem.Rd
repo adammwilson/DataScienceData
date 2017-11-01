@@ -12,6 +12,6 @@
 bangladesh_dem
 }
 \description{
-Digital elevation model for the country of Bangladesh aquired using \link{raster::getData()} for the country boundaries and four SRTM tiles.  These were merged and then cropped and masked to the country boundaries.
+Digital elevation model for the country of Bangladesh aquired using \code{raster::getData()} for the country boundaries and four SRTM tiles.  These were merged and then cropped and masked to the country boundaries.
 }
 \keyword{datasets}
